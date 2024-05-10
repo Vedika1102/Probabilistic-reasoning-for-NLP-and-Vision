@@ -1,5 +1,3 @@
-# ggattani-rkakde-vsshinde-a3
-Assignment 3
 
 # Part 1: Part-of-Speech Tagging
 
