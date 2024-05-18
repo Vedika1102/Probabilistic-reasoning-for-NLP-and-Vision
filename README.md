@@ -34,6 +34,3 @@ The OCR algorithm is a two-fold process. The simplified function matches each ch
 
 The OCR part was particularly challenging due to the noise in the images. We experimented with different weightings for matching characters and adjusting the model to give less weight to noise pixels. Through iterative testing and tuning of the model parameters, we were able to significantly improve the recognition accuracy.
 
-## Work Division:
-
-For both parts of the assignment, all of us, Gayatri, Rishikesh, and Vedika, initially worked separately to come up with the solution. After the individual work, we came together to share what we had each done, including the problems we had encountered. We shared our thought processes on the best solutions and then collectively worked towards the final code.
